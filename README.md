@@ -1,2 +1,2 @@
 # Design_Patterns
-Practice in design patterns
+Studying the design patterns in different languages.
