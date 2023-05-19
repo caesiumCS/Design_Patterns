@@ -4,7 +4,8 @@ namespace Factory {
 
 class ITransport {
 public:
-    virtual void move() = 0;
+    virtual void move() {};
+    virtual ~ITransport() = default;
 };
 
 }
