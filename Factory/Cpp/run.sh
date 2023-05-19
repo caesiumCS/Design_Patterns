@@ -1,5 +1,5 @@
 #!/bin/bash 
-if [ ! -d "$tmp" ]; then
+if [ ! -d "$build" ]; then
   ./build.sh
 fi
 
